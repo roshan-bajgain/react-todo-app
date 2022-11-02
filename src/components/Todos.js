@@ -2,7 +2,11 @@ import React from 'react'
 
 const Todos = () => {
   return (
-    <div>Todos goes here!!!!!</div>
+    <div className="container">
+      <h3>Todos list</h3>
+      
+    </div>
+
   )
 }
 
